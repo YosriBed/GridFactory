@@ -1,14 +1,12 @@
-# HTML BRANCH
+# SVG BRANCH
 
-Not using svg to draw squares.
-
-Html elements are inserted instead.
+Graph Drawing using svg
 
 ## Packages used
-
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
 
 ```bash
 dom-to-image
 # to transform the graph into a blob
+svgjs
+# to draw svg
 ```
