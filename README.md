@@ -2,7 +2,7 @@
 
 A simple app to generate a git contribution like graph.
 
-![Screenshot](https://i.ibb.co/ZcNPpd0/screenshot-jpeg.png "Screenshot")
+![Screenshot](https://i.ibb.co/BLthq2d/screenshot-jpeg.png "Screenshot")
 
 ## Installation
 
