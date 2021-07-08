@@ -39,14 +39,6 @@ const App = () => {
       <button
         type='button'
         onClick={() => {
-          React.findDOMNode(graphRef).reset();
-        }}
-      >
-        Clear
-      </button>
-      <button
-        type='button'
-        onClick={() => {
           domtoimage
             .toBlob(graphRef.current)
             .then(generateAndDownloadBlob)
